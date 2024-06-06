@@ -1,0 +1,12 @@
+1 9780241491515 A_Promised_Land Barack_Obama 1/8/2010 !
+2 9780241491514 Superman Clark_Kent 1/8/2010 !
+3 9780241491515 A_Promised_Land Barack_Obama 1/8/2010 !
+4 9780241491512 Flash Geoff_Jones 1/8/2010 !
+5 9780241491511 Spiderman Stan_Lee 1/8/2010 !
+6 9780241491519 Batman Bruce_Wayne 1/8/2010 !
+7 9780241491523 Dragonball Akira_Toriyama 1/8/2010 !
+8 9780241491519 Batman Bruce_Wayne 1/8/2010 !
+9 9780241491459 Star_Wars Some_Guy 1/8/2010 !
+10 9780241491548 Joker Joseph_Jostar 1/8/2010 !
+11 9780241491569 Primeval Jake_Mccoy 1/8/2010 !
+12 9780241491530 Harry_Potter JK_Rowling 1/8/2010 !
